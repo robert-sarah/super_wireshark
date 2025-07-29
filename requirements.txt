@@ -1,0 +1,7 @@
+PyQt5 
+scapy 
+matplotlib
+ seaborn 
+numpy
+ psutil 
+requests
